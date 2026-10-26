@@ -1,20 +1,29 @@
-Social Media Analytics Dashboard
+ Social Media Performance Analysis | Excel
 
-## Overview
-An Excel-based project for tracking and analyzing social media content performance using engagement metrics.
+## Project Overview
+An Excel-based project exploring social media content performance and engagement metrics to support data-driven content planning.
 
-## Objectives
-- Track likes, comments, shares, and views.
-- Compare content performance.
-- Identify high-performing posts.
-- Support data-driven social media decisions.
-
-## Tools
+## Tools Used
 - Microsoft Excel
 - Excel formulas and charts
+- Data analysis and dashboard reporting
+
+## Key Metrics
+- Views and reach
+- Likes, comments, shares, and saves
+- Engagement and content performance
+
+## Methodology
+1. Reviewed the available dataset and metrics.
+2. Explored dashboard visualizations.
+3. Compared content performance.
+4. Identified opportunities for improved content planning.
+
+## Key Learning
+Developed an understanding of social media metrics, Excel-based analysis, and data-driven marketing decisions.
 
 ## Project File
-Open the Excel workbook in this repository to explore the analysis.
+Excel workbook containing the analytics dashboard.
 
-## Attribution
-This project was adapted from a reference project. Original source: https://github.com/aminasalik26/social-media-analytics-tracker
+## Original Source
+Adapted from: https://github.com/aminasalik26/social-media-analytics-tracker
